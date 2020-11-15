@@ -1,9 +1,17 @@
-// Algoritmer_inl1.cpp : This file contains the 'main' function. Program execution begins and ends there.
-//
-
 #include <iostream>
+#include <vector>
+#include "bucketSort.h"
+
+using namespace std;
 
 int main()
 {
-    std::cout << "Hello World!\n";
+
+	
+	vector <int> input = { 5, 18, 4, 20, 13, 1, 9, 8, 12, 6, 6 };
+
+	bucketSort sort = bucketSort(input);
+
+
+
 }

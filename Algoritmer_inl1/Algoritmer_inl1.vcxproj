@@ -152,6 +152,10 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Algoritmer_inl1.cpp" />
+    <ClCompile Include="bucketSort.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="bucketSort.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

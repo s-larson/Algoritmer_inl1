@@ -18,5 +18,13 @@
     <ClCompile Include="Algoritmer_inl1.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="bucketSort.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="bucketSort.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
