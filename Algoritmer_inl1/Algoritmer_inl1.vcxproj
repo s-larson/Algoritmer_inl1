@@ -153,9 +153,11 @@
   <ItemGroup>
     <ClCompile Include="Algoritmer_inl1.cpp" />
     <ClCompile Include="bucketSort.cpp" />
+    <ClCompile Include="insertionSort.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="bucketSort.h" />
+    <ClInclude Include="insertionSort.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

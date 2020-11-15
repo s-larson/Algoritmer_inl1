@@ -21,9 +21,15 @@
     <ClCompile Include="bucketSort.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="insertionSort.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="bucketSort.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="insertionSort.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
